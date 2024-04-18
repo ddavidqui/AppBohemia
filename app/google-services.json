@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658812109856",
+    "project_id": "databasebohemia",
+    "storage_bucket": "databasebohemia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658812109856:android:470677f424479c51e5a845",
+        "android_client_info": {
+          "package_name": "com.example.appbohemia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3KMeu5iwgQHpiQIXHVtrUa57FVcxWfoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
